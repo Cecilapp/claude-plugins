@@ -13,7 +13,7 @@
       "description": "Skills to build, configure and theme Cecil static sites.",
       "source": {
         "source": "git-subdir",
-        "url": "Cecilapp/Cecil",
+        "url": "https://github.com/Cecilapp/Cecil.git",
         "path": "skills"
       },
       "skills": "./",
