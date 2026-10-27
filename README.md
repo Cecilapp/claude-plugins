@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon.png" width="128" height="128" alt="Cecil"></p>
+
 # Cecil plugins for Claude Code
 
 [Claude Code](https://code.claude.com) plugin marketplace for [Cecil](https://cecil.app), the static site generator.
