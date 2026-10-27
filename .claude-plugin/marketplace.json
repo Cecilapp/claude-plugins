@@ -1,0 +1,31 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cecil",
+  "description": "Claude Code plugins for Cecil, the static site generator.",
+  "owner": {
+    "name": "Cecil",
+    "url": "https://cecil.app"
+  },
+  "plugins": [
+    {
+      "name": "cecil",
+      "displayName": "Cecil",
+      "description": "Skills to build, configure and theme Cecil static sites.",
+      "source": {
+        "source": "git-subdir",
+        "url": "Cecilapp/Cecil",
+        "path": "skills"
+      },
+      "skills": "./",
+      "author": {
+        "name": "Arnaud Ligny",
+        "url": "https://arnaudligny.fr"
+      },
+      "homepage": "https://cecil.app/documentation/ai/agent-skills/",
+      "repository": "https://github.com/Cecilapp/Cecil",
+      "license": "EUPL-1.2",
+      "keywords": ["cecil", "static-site-generator", "ssg", "twig", "theme"],
+      "category": "development"
+    }
+  ]
+}
